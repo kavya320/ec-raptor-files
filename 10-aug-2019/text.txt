@@ -1,0 +1,2 @@
+good morning
+Unable to redirect input to: text.txt
